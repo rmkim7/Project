@@ -1,6 +1,6 @@
 docs : Summary of the project.
 
-# Predicting attrited customer using Kaggle Dataset ('Credit card customer') by using 10 classification models.  
+# Predicting attrited customer using Kaggle Dataset ('Credit card customers') by using 10 classification models.  
 
 
 - Ensemble Boosting models showed great ressults.  
