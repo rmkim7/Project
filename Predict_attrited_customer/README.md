@@ -7,7 +7,7 @@ docs : Summary of the project.
 - find out which feature is more important than others by using feature importance.  
 
 # contributors
-Hyeong-J (https://github.com/Hyeong-J)
+Hyeong-J (https://github.com/Hyeong-J)  
 rmkim7
 
 # 주제: 신용카드 이탈고객 예측  
